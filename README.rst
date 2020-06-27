@@ -1,3 +1,11 @@
+Django Video Kit
+================
+
+A suite of video utilities for Django.
+
+.. warning::
+    The project is not currently in active development and should be considered alpha grade at the moment. 
+    
 Installation
 ============
 
